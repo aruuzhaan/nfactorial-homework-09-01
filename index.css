@@ -1,0 +1,321 @@
+/* z-index: 1; */
+p{
+    width: 100%;
+}
+.name1{
+    width: 50%;
+    height: 10px;
+}
+
+div {
+    height: 40px;
+    display: flex;
+
+}
+
+#rowoneitems{
+    height: 40px;
+    display: flex;
+  }
+
+
+#firstred{
+    height: 40px;
+    width: 50%;
+    background-color: red;
+  }
+
+  #firstblue{
+    height: 40px;
+    width: 50%;
+    background-color: blue;
+  }
+
+  #rowtwoitems{
+    height: 40px;
+    display: flex;
+  }
+
+  .name2{
+    height: 10px;
+}
+
+  #secondgreen{
+    height: 40px;
+    width: 96%;
+    background-color: green;
+  }
+
+  #secondblue{
+    height: 40px;
+    width: 4%;
+    background-color: blue;
+  }
+
+
+
+.name3{
+    height: 10px;
+}
+
+#rowthreeitems{
+    height: 40px;
+    display: flex;
+    /* flex-direction: row; */
+  }
+
+#thirdred{
+    height: 40px;
+    width: 4%;
+    background-color: red;
+  }
+
+#thirdgreen{
+    height: 40px;
+    width: 92%;
+    background-color: green;
+  }
+
+#thirdblue{
+    height: 40px;
+    width: 4%;
+    background-color: blue;
+  }
+
+.name4{
+    height: 10px;
+}
+
+#rowfouritems{
+    height: 40px;
+    display: flex;
+    /* flex-direction: row; */
+  }
+
+#fourthred{
+    height: 40px;
+    width: 96%;
+    background-color: red;
+  }
+
+#fourthblue{
+    height: 40px;
+    width: 4%;
+    background-color: blue;
+  }
+
+
+.name5{
+    height: 10px;
+}
+
+#rowfiveitems{
+    height: 40px;
+    display: flex;
+    /* flex-direction: row; */
+  }
+
+#fifthgreen{
+    height: 40px;
+    width: 100%;
+    background-color: green;
+    
+  }
+
+#fifthred{
+    height: 20px;
+    width: 2%;
+    background-color: red;
+    position: absolute;
+    margin: 0 50%;
+    margin-top: 10px;
+  }
+
+
+.name6{
+    height: 10px;
+}
+
+#rowsixitems{
+    height: 40px;
+    display: flex;
+    /* flex-direction: row; */
+  }
+
+#sixred{
+    height: 40px;
+    width: 100%;
+    background-color: red;
+  }
+
+#sixblue{
+    height: 40px;
+    width: 4%;
+    background-color: blue;
+    position: absolute;
+    margin: 0 50%;
+  }
+
+.name7{
+    height: 10px;
+}
+
+#rowsevenitems{
+    height: 40px;
+    display: flex;
+    /* flex-direction: row; */
+  }
+
+
+#sevenred{
+    height: 40px;
+    width: 4%;
+    background-color: red;
+  }
+
+#sevenblue{
+    height: 40px;
+    width: 96%;
+    background-color: blue;
+    
+  }
+
+#sevengreen{
+    height: 15px;
+    width: 95%;
+    background-color: green;
+    position: absolute;
+    margin: 0 4%;
+    margin-top: 12px;
+  }
+
+
+.name8{
+    height: 10px;
+    flex-direction: column;
+}
+
+#roweightitems{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+  }
+
+#eightyellow{
+    height: 40px;
+    width: 4%;
+    background-color: orange;
+}
+
+#eightgreen{
+    height: 40px;
+    width: 20%;
+    background-color: green;
+}
+
+#eightyellowtwo{
+    height: 40px;
+    width: 4%;
+    background-color: orange;
+}
+
+#eightgreentwo{
+    height: 40px;
+    width: 20%;
+    background-color: green;
+}
+#eightyellowthree{
+    height: 40px;
+    width: 4%;
+    background-color: orange;
+}
+#eightgreenthree{
+    height: 40px;
+    width: 20%;
+    background-color: green;
+}
+
+#eightyellowfour{
+    height: 40px;
+    width: 4%;
+    background-color: orange;
+}
+#eightgreenfour{
+    height: 40px;
+    width: 20%;
+    background-color: green;
+}
+#eightyellowfive{
+    height: 40px;
+    width: 4%;
+    background-color: orange;
+}
+
+.name9{
+    height: 10px;
+}
+
+#rownineitems{
+    height: 40px;
+    display: flex;
+    flex-direction: row; 
+}
+
+#nineyellow{
+    height: 40px;
+    width: 20%;
+    background-color: orange;
+}
+#ninegreen{
+    height: 40px;
+    width: 1%;
+    background-color: green;
+}
+
+#nineyellowtwo{
+    height: 40px;
+    width: 20%;
+    background-color: orange;
+}
+#ninegreentwo{
+    height: 40px;
+    width: 1%;
+    background-color: green;
+}
+
+#nineyellowthree{
+    height: 40px;
+    width: 20%;
+    background-color: orange;
+}
+#ninegreenthree{
+    height: 40px;
+    width: 1%;
+    background-color: green;
+}
+
+#nineyellowfour{
+    height: 40px;
+    width: 20%;
+    background-color: orange;
+}
+#ninegreenfour{
+    height: 40px;
+    width: 1%;
+    background-color: green;
+}
+
+#nineyellowfive{
+    height: 40px;
+    width: 20%;
+    background-color: orange;
+}
+@media only screen and (max-device-width: 600px) {
+    p{
+        width: 100%;
+    }
+    div{
+        width: 100%;
+    }
+    
+}
